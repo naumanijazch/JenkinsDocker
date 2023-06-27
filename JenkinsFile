@@ -7,8 +7,6 @@ pipeline {
           curl --version
           node --version
           npm --version
-          python --version
-          pip --version
         '''
       }
     }
